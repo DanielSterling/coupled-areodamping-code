@@ -1,0 +1,12 @@
+{
+  "run_date": "2026-10-20",
+  "timezone": "Asia/Shanghai",
+  "matlab": "R2024b",
+  "scripts": [
+    "verify_release_v3",
+    "verify_gravity_v3"
+  ],
+  "status": "PASS",
+  "exit_code": 0,
+  "note": "Existing verification_results.json has a hardcoded historical date; run date recorded here."
+}
